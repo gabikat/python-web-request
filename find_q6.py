@@ -125,7 +125,6 @@ def get_grade():
 
 
 if __name__ == '__main__':
-    exploit()
     global ses
     ses = requests.Session()
     ses.auth = ('89465738', 'wvtlzmm')
